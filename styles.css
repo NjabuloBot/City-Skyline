@@ -27,7 +27,7 @@ body{
 
 }
 
-.bb1a-window{
+.bb1-window{
     height:10%;
     background:linear-gradient(var(--building-color1)
     var(--window-color1));
