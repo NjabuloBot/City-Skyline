@@ -125,7 +125,7 @@ body{
 }
 
 .bb2a{
-    border-bottom: 5vw solid var(--building-color2);
+    border-bottom: 5vh solid var(--building-color2);
     border-left: 5vw solid transparent;
     border-right: 5vw solid transparent;
 }
